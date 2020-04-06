@@ -1,1 +1,0 @@
-# sportal-app
